@@ -4,13 +4,12 @@
 ### You need to create a new local git repository on your desktop named my-repo and create a README.md file in the repository. Order the git terminal commands accordingly.
 ___
 
-__ cd ~
-
-__ cd Desktop
-
-__ mkdir my-repo
-
-__ touch README.md
+Task | | Order
+|-----|:-----:|---:|
+__ cd ~ | | 1 | 
+__ cd Desktop| |2|
+__ mkdir my-repo | | 3
+__ touch README.md | | 4
 
 ___
 ## Part 2: Short answer
@@ -40,31 +39,20 @@ ___
 ### Proivde the correct corresponding letter to match the indicated task
 ___
 
-__ push to remote master branch ```git push origin```
-
-__ tell git to STAGE a specific file ```git add .gitignore```
-
-__ tell git to STAGE a specific directory and everything in it ```git add src/```
-
-__ commeit to git with a message ```git commit -m 'message in single quotes'```
- 
-__ create git repo on github and then add it as remote origin ```git remote add origin https://github.com/github-user/name-of-repo.git``` 
-
-__ check status of current git repository (will be blank if no repository linked) ```git remote -v```
-
-__ remove remote repository ```git remote remove origin```
-
-__ initial push from local machine to remote GitHub ```git push -u origin master```
-
-__ view a log of git actions ```git log```
-
-__ view current tags ```git tag```
-
-__ add a simpe tag a shaw ```git tag tagname-without-quotes```
-
-__ initial push to remote git repository ```git push -u origin master```
-
-__ make a push that is not the initial push ```git push origin```
+ Questions | | Answers
+|:---:|:-:|:----:
+__ push to remote master branch| |```git push origin```
+__ tell git to STAGE a specific file | | ```git add .gitignore``` 
+__ tell git to STAGE a specific directory and everything in it | | ```git add src/``` 
+__ commit to git with a message | |```git commit -m 'message in single quotes'```
+__ create git repo on github and then add it as remote origin ||```git remote add origin https://github.com/github-user/name-of-repo.git``` 
+__ check status of current git repository (will be blank if no repository linked)| | ```git remote -v```
+__ remove remote repository | | ```git remote remove origin```
+__ initial push from local machine to remote GitHub ||```git push -u origin master```||__ view a log of git actions || ```git log```
+__ view current tags ||```git tag```
+|__ add a simpe tag a shaw ||```git tag tagname-without-quotes```
+|__ initial push to remote git repository ||```git push -u origin master```
+|__ make a push that is not the initial push ||```git push origin```
 
 ___
 ## Part 4: Ordering
