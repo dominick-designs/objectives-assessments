@@ -25,3 +25,5 @@
 - team concepts
 - onboarding
 - software development lifecycle
+
+*subject to change and modifications
