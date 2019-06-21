@@ -25,9 +25,9 @@ ___
 
 4) If you want to remove a file named ```.git``` without being asked for confirmation, which command would you use?
 
-5) If you want to view to contents of a file named README.md, which command would you use?
+5) If you want to view contents of a file named README.md, which command would you use?
 
-6) What are the general steps you would take in order to create a repository on GitHub in order to copy the URL of the repository and then link it with an existing locla repository?
+6) What are the general steps you would take in order to create a repository on GitHub in order to copy the URL of the repository and then link it with an existing local repository?
 
 ___
 ## Part 3: Matching
@@ -47,9 +47,9 @@ __ remove remote repository | \| |
 __ initial push from local machine to remote GitHub | \| |
 __ view a log of git actions | \| |
 __ view current tags | \| |
-__ add a simpe tag a shaw | \| |
+__ add a simple tag to a shaw | \| |
 __ initial push to remote git repository | \| |
-__ make a push that is not the initial push | \| |
+__ make a push that is not the initial push | \| |****
 
 #### Answer Bank: 
 
@@ -62,7 +62,7 @@ C: &nbsp; &nbsp; ```git add src/```|         | D: &nbsp; &nbsp; ```git push orig
   I: &nbsp; &nbsp; ```git commit -m 'message in single quotes'```|  |J: &nbsp; &nbsp; ```git remote add origin https://github.com/github-user/name-of-repo.git```||
   K: &nbsp; &nbsp; ```git push origin```|   |L: &nbsp; &nbsp; ```git remote remove origin```||
   M: &nbsp; &nbsp; ```git push -u origin master```| |N: &nbsp; &nbsp; ```git log```||
-  O: &nbsp; &nbsp; ```git tag tagname-without-quotes```
+  O: &nbsp; &nbsp; ```git tag 'tagname-with-quotes'```
 
 
 
@@ -88,4 +88,4 @@ ___
 ### Provide a complete response to the following.
 
 1) Given the following ```./style.css``` what does the ```./``` indicate? 
-2) Given the following ```npm install prettier -D```, what does ```-D``` meand?
+2) Given the following ```npm install prettier -D``` , what does ```-D``` meand?
