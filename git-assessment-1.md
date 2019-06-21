@@ -37,18 +37,18 @@ ___
 
  Question | | Answer
 |:---|:-|:----
-__ push to remote master branch| | 
-__ tell git to STAGE a specific file | | 
-__ tell git to STAGE a specific directory and everything in it | | 
-__ commit to git with a message | |
-__ create git repo on github and then add it as remote origin ||
-__ check status of current git repository (will be blank if no repository linked)| | 
-__ remove remote repository | | 
-__ initial push from local machine to remote GitHub ||||__ view a log of git actions || 
-__ view current tags ||
-|__ add a simpe tag a shaw ||
-|__ initial push to remote git repository ||
-|__ make a push that is not the initial push ||
+__ push to remote master branch|  
+__ tell git to STAGE a specific file | 
+__ tell git to STAGE a specific directory and everything in it |  
+__ commit to git with a message | 
+__ create git repo on github and then add it as remote origin |
+__ check status of current git repository (will be blank if no repository linked)| 
+__ remove remote repository | 
+__ initial push from local machine to remote GitHub ||||__ view a log of git actions |
+__ view current tags |
+|__ add a simpe tag a shaw |
+|__ initial push to remote git repository |
+|__ make a push that is not the initial push |
 
 #### Answer Bank: 
 
