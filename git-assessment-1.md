@@ -84,8 +84,8 @@ ___ git commit -m 'initial commit'
 ___ git remote add origin https://github.com/github-user/name-of-repo.git
 
 ___
-## Bonus: Short Answer
+## Part 5: Short Answer
 ### Provide a complete response to the following.
 
 1) Given the following ```./style.css``` what does the ```./``` indicate? 
-2) Given the following ```npm install prettier -D``` , what does ```-D``` meand?
+2) Given the following ```npm install prettier -D``` , what does ```-D``` mean?
