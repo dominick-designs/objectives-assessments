@@ -5,12 +5,12 @@
 **Example**: #1 — git command
 ___
 
-Task | | Order
-|-----|:-----:|---:|
-___ cd ~ | | 3 | 
-___ cd Desktop| |4|
-___ mkdir my-repo | | 2
-___ touch README.md | | 1
+Task                |       | Order
+|------------------ |:-----:|---:  
+___ cd ~            |       | 3     
+___ cd Desktop      |       | 4
+___ mkdir my-repo   |       | 2
+___ touch README.md |       | 1
 
 ___
 ## Part 2: Short answer
@@ -35,34 +35,34 @@ ___
 **Example**: Question — A
 ___
 
- Question | | Answer
-|:---|:-|:----
-__ push to remote master branch|  
-__ tell git to STAGE a specific file | 
-__ tell git to STAGE a specific directory and everything in it |  
-__ commit to git with a message | 
-__ create git repo on github and then add it as remote origin |
-__ check status of current git repository (will be blank if no repository linked)| 
-__ remove remote repository | 
-__ initial push from local machine to remote GitHub ||||__ view a log of git actions |
-__ view current tags |
-|__ add a simpe tag a shaw |
-|__ initial push to remote git repository |
-|__ make a push that is not the initial push |
+Question         |             | Answer
+|:---------------|:------------|:----
+__ push to remote master branch| \| | |
+__ tell git to STAGE a specific file | \| | 
+__ tell git to STAGE a specific directory and everything in it | \| | 
+__ commit to git with a message | \| |
+__ create git repo on github and then add it as remote origin | \| |
+__ check status of current git repository (will be blank if no repository linked)| \| |
+__ remove remote repository | \| |
+__ initial push from local machine to remote GitHub | \| |
+__ view a log of git actions | \| |
+__ view current tags | \| |
+__ add a simpe tag a shaw | \| |
+__ initial push to remote git repository | \| |
+__ make a push that is not the initial push | \| |
 
 #### Answer Bank: 
 
-|Choose the Correct answer ||Add letter to correct answer above|
-|:---|:---|:---|
-A: &nbsp; &nbsp; ```git remote -v```|| B: &nbsp; &nbsp; ```git push -u origin master``` ||
-  C: &nbsp; &nbsp; ```git add src/``` || D: &nbsp; &nbsp; ```git push origin``` || 
-  E: &nbsp; &nbsp; ```git push origin```|| F: &nbsp; &nbsp; ```git tag``` ||
-  G: &nbsp; &nbsp; ```git add .gitignore```||H: &nbsp; &nbsp; ```git add src/```||
-  I: &nbsp; &nbsp; ```git commit -m 'message in single quotes'```||J: &nbsp; &nbsp; ```git remote add origin https://github.com/github-user/name-of-repo.git```||
-  K: &nbsp; &nbsp; ```git push origin```||L: &nbsp; &nbsp; ```git remote remove origin```||
-  M: &nbsp; &nbsp; ```git push -u origin master```||N: &nbsp; &nbsp; ```git log```||
+|Choose the Correct answer          |        |Add letter to correct answer above|
+|:---                               |:---    |:---                               |
+A: &nbsp; &nbsp; ```git remote -v```|        | B: &nbsp; &nbsp; ```git push -u origin master``` |
+C: &nbsp; &nbsp; ```git add src/```|         | D: &nbsp; &nbsp; ```git push origin``` | 
+  E: &nbsp; &nbsp; ```git push origin```|    | F: &nbsp; &nbsp; ```git tag``` ||
+  G: &nbsp; &nbsp; ```git add .gitignore```| |H: &nbsp; &nbsp; ```git add src/```||
+  I: &nbsp; &nbsp; ```git commit -m 'message in single quotes'```|  |J: &nbsp; &nbsp; ```git remote add origin https://github.com/github-user/name-of-repo.git```||
+  K: &nbsp; &nbsp; ```git push origin```|   |L: &nbsp; &nbsp; ```git remote remove origin```||
+  M: &nbsp; &nbsp; ```git push -u origin master```| |N: &nbsp; &nbsp; ```git log```||
   O: &nbsp; &nbsp; ```git tag tagname-without-quotes```
-
 
 
 
