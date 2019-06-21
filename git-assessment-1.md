@@ -48,51 +48,45 @@ __ tell git to STAGE a specific directory and everything in it ```git add src/``
 
 __ commeit to git with a message ```git commit -m 'message in single quotes'```
  
-__ create git repo on github
-```git remote add origin https://github.com/dominick-designs/react-project.git```
-```git remote -v```
-to check status of this
-```git remote remove origin```
-to remove git
-```git remote -v```
-to check it's removed
+__ create git repo on github and then add it as remote origin ```git remote add origin https://github.com/github-user/name-of-repo.git``` 
 
+__ check status of current git repository (will be blank if no repository linked) ```git remote -v```
 
+__ remove remote repository ```git remote remove origin```
 
-git init
-git status
-git add .
-git commit -m 'initial commit'
-git tag '001-initial commit'
+__ initial push from local machine to remote GitHub ```git push -u origin master```
 
+__ view a log of git actions ```git log```
 
+__ view current tags ```git tag```
 
-```git add banana https://github.com/dominick-designs/react-project.git```
-```git remove -v```
-```git push -u origin master```
-to push to github.
-```origin```
-can be any name. does not have to be 'origin'
+__ add a simpe tag a shaw ```git tag tagname-without-quotes```
 
-```git log```
-and then  
-```git tag tagname-without-quotes```
-to tag a shaw
-```git tag```
-to see tag
+__ initial push to remote git repository ```git push -u origin master```
 
+__ make a push that is not the initial push ```git push origin```
 
-```./style.css```
- './' means 'relative to this file look there
+___
+## Part 4: Ordering
+### You need to create a new local repository and link it with your new GitHub repository. Order the git terminal commands accordingly.
 
+__ git init
 
-```git add src/index.html```
-```git commit -m 'single-quote-message'```
-```git push origin```
+__ git status
 
+__ git add .
 
-```npm install prettier -D```
-saves it as a developer dependency
+__ git commit -m 'initial commit'
 
-Dominick Inglese [1:38 PM]
- ```git add .```
+__ git tag '001-initial commit'
+
+__ git remote add origin https://github.com/github-user/name-of-repo.git
+
+__ git push -u origin master
+
+___
+## Bonus: Short Answer
+### Provide a complete response to the following.
+
+1) Given the following ```./style.css``` what does the ```./``` indicate? './' means 'relative to this file look there
+1) Given the following ```npm install prettier -D```, what does ```-D``` meand? saves it as a developer dependency
