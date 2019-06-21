@@ -49,7 +49,7 @@ __ view a log of git actions | \| |
 __ view current tags | \| |
 __ add a simple tag to a shaw | \| |
 __ initial push to remote git repository | \| |
-__ make a push that is not the initial push | \| |****
+__ make a push that is not the initial push | \| |
 
 #### Answer Bank: 
 
