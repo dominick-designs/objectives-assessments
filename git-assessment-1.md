@@ -1,6 +1,6 @@
 # Git assessment 
 
-## Part 1: Ordering
+## Part 1: Ordering (4 points)
 ### You need to create a new local git repository on your desktop named my-repo and create a README.md file in the repository. Order the git terminal commands accordingly.
 **Example**: #1 — git command
 ___
@@ -13,7 +13,7 @@ ___ mkdir my-repo   |       | 2
 ___ touch README.md |       | 1
 
 ___
-## Part 2: Short answer
+## Part 2: Short answer (12 points)
 ### Provide the correct command for each scenario.
 ___
 
@@ -30,7 +30,7 @@ ___
 6) What are the general steps you would take in order to create a repository on GitHub in order to copy the URL of the repository and then link it with an existing local repository?
 
 ___
-## Part 3: Matching
+## Part 3: Matching (23 points)
 ### Proivde the correct corresponding letter to match the indicated task
 **Example**: Question — A
 ___
@@ -67,7 +67,7 @@ C: &nbsp; &nbsp; ```git add src/```|         | D: &nbsp; &nbsp; ```git push orig
 
 
 ___
-## Part 4: Ordering
+## Part 4: Ordering (12 points)
 ### You need to create a new local repository and link it with your new GitHub repository. Order the git terminal commands accordingly.
 **Example**: #1 — git command
 
@@ -84,7 +84,7 @@ ___ git commit -m 'initial commit'
 ___ git remote add origin https://github.com/github-user/name-of-repo.git
 
 ___
-## Part 5: Short Answer
+## Part 5: Short Answer (4 points)
 ### Provide a complete response to the following.
 
 1) Given the following ```./style.css``` what does the ```./``` indicate? 
