@@ -1,6 +1,6 @@
 # Git assessment 
 
-## Part 1: Ordering (4 points)
+## Part 1: Ordering (8 points)
 ### You need to create a new local git repository on your desktop named my-repo and create a README.md file in the repository. Order the git terminal commands accordingly.
 **Example**: #1 — git command
 ___
